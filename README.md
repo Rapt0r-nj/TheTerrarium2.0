@@ -1,11 +1,11 @@
 # Terrarium 2.0
 ---
-The over-engineered Game of Life simulator.
+The over-engineered *Game of Life* simulator.
 ---
 ### Team
-- *Md. Mahiul Kabir*
-- *Sohom Sattyam*
-- *Farhan Sahriyar*
+- *Md. Mahiul Kabir*, IUT_220041109
+- *Sohom Sattyam*, IUT_220041141
+- *Farhan Sahriyar*, IUT_220041113
 
 ---
 ### About
