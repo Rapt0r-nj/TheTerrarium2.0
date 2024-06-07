@@ -9,8 +9,9 @@ The over-engineered *Game of Life* simulator.
 
 ---
 ### About
-Course Project of **CSE4202, BSc. in CSE, IUT**
-It’s basically a Game of Life simulation , with
+Course Project of **CSE4202, BSc. in CSE, IUT**.
+
+It’s basically a Game of Life simulation , with,
 - Extra cells
 - Different rules
 - And some handy features.
