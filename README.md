@@ -5,7 +5,7 @@ The over-engineered *Game of Life* simulator.
 ### Team
 - *Md. Mahiul Kabir*, IUT_220041109
 - *Sohom Sattyam*, IUT_220041141
-- *Farhan Sahriyar*, IUT_220041113
+- *Farhan Shahriyar*, IUT_220041113
 
 ---
 ### About
