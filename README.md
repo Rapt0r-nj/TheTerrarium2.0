@@ -1,5 +1,4 @@
 # Terrarium 2.0
----
 The over-engineered *Game of Life* simulator.
 ---
 ### Team
